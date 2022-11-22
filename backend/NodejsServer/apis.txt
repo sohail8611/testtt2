@@ -1,0 +1,16 @@
+Show team leader list:
+
+
+J: http://localhost:8000/teamleaders/list
+P: http://127.0.0.1:1113/teamleaderlist_TabularData_API
+
+J: http://localhost:8000/teamleaders/registred
+P: http://127.0.0.1:10331/get_all_teamleaderslist
+
+
+
+Python API:
+http://127.0.0.1:10331/get_all_teamleaderslist
+http://127.0.0.1:10331/get_all_region_list
+http://127.0.0.1:10331/get_all_zones_in_city/<int:cityID>
+http://127.0.0.1:10331/get_all_cities_in_region/<int:regionID>

@@ -1,0 +1,9 @@
+.forMenu{
+    font-size: 12;
+}
+.forMenu:hover{
+    background: rgb(252, 248, 248);
+}
+li{
+    list-style-type: none;
+}

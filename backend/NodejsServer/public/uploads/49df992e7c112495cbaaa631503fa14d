@@ -1,0 +1,9 @@
+merchantName,product,active,mcc,merchantID,posType
+merchant3,recipt,false,8,8,terminal
+merchange4,paper,true,8,12,pos_t1
+faraz,recipt,true,8,9,terminal
+Ahmad,recipt,true,31,32,terminal
+
+
+
+[{21.5075610440868, 39.20649311896185},{21.504807903561908, 39.20559093504256},{21.506855976478867, 39.20403917870137},{21.5075610440868, 39.20649311896185}]
